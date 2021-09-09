@@ -1,0 +1,19 @@
+{
+    "programs":[
+        {
+            "programId": 30,
+            "name": "program 1",
+            "budget": 1000000
+        },
+        {
+            "programId": 15,
+            "name": "program 2",
+            "budget": 2000000
+        },
+        {
+            "programId": 3,
+            "name": "program 3",
+            "budget": 12000000
+        }
+    ]
+}

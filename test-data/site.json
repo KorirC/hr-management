@@ -1,0 +1,19 @@
+{
+    "sites":[
+        {
+            "siteId": 20,
+            "name": "MTRH",
+            "county": 4
+        },
+        {
+            "siteId": 23,
+            "name": "Iten",
+            "county": 4
+        },
+        {
+            "siteId": 29,
+            "name": "JOORH",
+            "county": 4
+        }
+    ]
+}

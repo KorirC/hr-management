@@ -1,0 +1,16 @@
+{
+    "departments":[
+        {
+            "departmentId": 1,
+            "name": "department 1"
+        },
+        {
+            "departmentId": 2,
+            "name": "department 2"
+        },
+        {
+            "departmentId": 3,
+            "name": "department 3"
+        }
+    ]
+}

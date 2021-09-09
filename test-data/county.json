@@ -1,0 +1,16 @@
+{
+    "counties":[
+        {
+            "countyId": 4,
+            "name": "Isiolo"
+        },
+        {
+            "countyId": 23,
+            "name": "Elgeyo Marakwet"
+        },
+        {
+            "countyId": 29,
+            "name": "Uasin Gishu"
+        }
+    ]
+}

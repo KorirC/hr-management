@@ -1,0 +1,72 @@
+{
+    "employees":[
+        {
+            "id": 1,
+            "firstName": "Brian",
+            "middleName": "Oketayot",
+            "lastName": "Herbert",
+            "idNumber": 123456789,
+            "dob": "1970-02-03",
+            "age": 50,
+            "telephone": "0712000000",
+            "email": "brian@email.com",
+            "gender": "M",
+            "kraPin": "A100###",
+            "nssf": 1234,
+            "nhif": 1234,
+            "pfNumber": 1,
+            "salutation": "Mr"
+        },
+        {
+            "id": 2,
+            "firstName": "Emily",
+            "middleName": "Mwenda",
+            "lastName": "Kalondu",
+            "idNumber": 123456780,
+            "dob": "1993-09-16",
+            "age": 27,
+            "telephone": "0713000000",
+            "email": "emily@email.com",
+            "gender": "F",
+            "kraPin": "A200###",
+            "nssf": 12340,
+            "nhif": 12340,
+            "pfNumber": 2,
+            "salutation": "Miss"
+        },
+        {
+            "id": 3,
+            "firstName": "Alice",
+            "middleName": "Chepyator",
+            "lastName": "Cherono",
+            "idNumber": 123456700,
+            "dob": "1981-05-23",
+            "age": 39,
+            "telephone": "0714000000",
+            "email": "alice@email.com",
+            "gender": "F",
+            "kraPin": "A400###",
+            "nssf": 12341,
+            "nhif": 12341,
+            "pfNumber": 3,
+            "salutation": "Mrs"
+        },
+        {
+            "id": 4,
+            "firstName": "Joseph",
+            "middleName": "Loboi",
+            "lastName": "Sammy",
+            "idNumber": 123456000,
+            "dob": "1975-01-09",
+            "age": 45,
+            "telephone": "0715000000",
+            "email": "joseph@email.com",
+            "gender": "M",
+            "kraPin": "A500###",
+            "nssf": 12342,
+            "nhif": 12342,
+            "pfNumber": 4,
+            "salutation": "Mr"
+        }
+    ]
+}
